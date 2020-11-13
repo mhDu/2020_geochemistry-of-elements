@@ -1,6 +1,8 @@
 ---
 title: "异常的汞同位素非质量分馏"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 非传统稳定同位素暑期学校_陈玖斌_异常的汞同位素非质量分馏
